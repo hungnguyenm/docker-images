@@ -1,0 +1,3 @@
+[submodule "teleirc"]
+	path = teleirc
+	url = https://github.com/RITlug/teleirc.git
