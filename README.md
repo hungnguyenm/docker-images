@@ -1,2 +1,3 @@
-# docker-images
-My collection of Docker images for personal releases
+# Docker Image Library
+
+This is the repository for my collection of Docker images for personal releases.
